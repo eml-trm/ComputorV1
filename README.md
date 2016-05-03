@@ -1,7 +1,7 @@
 # ComputorV1
 #### First project in Python
 
-This program solves a polynomial equation of degree less than or equal to 2.
+This program solves a polynomial equation of degree less than or equal to 2. The program takes as parameter a polynomial equation. The program will display solutions.
 
 ## Summary
  1. [Usage](#usage)
